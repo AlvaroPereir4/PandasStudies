@@ -1,6 +1,6 @@
 ### Estudo de Pandas ~
 
-Compilações de estudos, conteúdos, cursos e aprendizados relacionados a Pandas, com foco em analise de dados e desenvolvimento técnico.
+Compilações de estudos, conteúdos, cursos e aprendizados relacionados a Pandas e Banco de Dados, com foco em analise de dados e desenvolvimento técnico.
 
 
 * O que é:
@@ -33,4 +33,7 @@ Compilações de estudos, conteúdos, cursos e aprendizados relacionados a Panda
 1. Téo Me Why (https://www.youtube.com/@teomewhy)
 2. Programação Dinâmica (https://www.youtube.com/@pgdinamica)
  
+### Conteudos
 
+1. O QUE É UM BANCO DE DADOS E QUANTO UM DEV PRECISA SABER SOBRE? -- Vanny (https://dev.to/wonderwanny/o-que-e-um-banco-de-dados-e-quanto-um-dev-precisa-saber-sobre-51jo)
+2. INTRODUÇÃO A MODELAGEM DE DADOS -- Vanny (https://dev.to/wonderwanny/introducao-a-modelagem-de-dados-5d0)
