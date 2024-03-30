@@ -3,21 +3,21 @@
 Compilações de estudos, conteúdos, cursos e aprendizados relacionados a Pandas e Banco de Dados, com foco em analise de dados e desenvolvimento técnico.
 
 
-* O que é:
+O que é:
 
 - Biblioteca open-source para análise e manipulação de dados.
 - Essencial para Ciência de Dados em Python.
 - Permite trabalhar com dados estruturados em tabelas e séries temporais.
 - Documentação oficial: https://pandas.pydata.org/
 
-* Principais recursos:
+Principais recursos:
 
 - DataFrame: Estrutura de dados muito útil para organizar e analisar dados.
 - Series: Vetores rotulados para armazenar séries temporais.
 - Ferramentas: Limpeza, seleção, filtragem, agregação, ordenação entre outras ferramentas.
 - Integração: Compatível com NumPy, Matplotlib, etc.
 
-* Em resumo:
+Em resumo:
 
 - Eficiência: Simplificação de tarefas complexas de manipulação de dados.
 - Produtividade: Aceleração de processos de análise de dados.
